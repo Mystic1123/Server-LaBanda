@@ -2,7 +2,6 @@
 
 
 
-
 # Custom version
 # mohist / catserver   Install forge   first
 # purpur               Install fabric  first
@@ -16,7 +15,7 @@
 # eu		  Europe (Frankfurt)
 # in		  India (Mumbai)
 # jp		  Japan (Tokyo)
-# sa		  South America (São Paulo)1
+# sa		  South America (São Paulo)
 # us		  United States (Ohio)
 # us-cal-1	  United States (California)
 
